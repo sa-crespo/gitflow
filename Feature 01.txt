@@ -1,0 +1,4 @@
+Feature: VCards
+
+Scenario: Registered User
+
